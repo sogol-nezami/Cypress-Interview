@@ -1,0 +1,24 @@
+{
+  "name": "cypress-interview",
+  "version": "1.0.0",
+  "description": "cypress interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "cypress open",
+    "e2e:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sogol-nezami/Cypress-Interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sogol-nezami/Cypress-Interview/issues"
+  },
+  "homepage": "https://github.com/sogol-nezami/Cypress-Interview#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
