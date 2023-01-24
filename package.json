@@ -1,7 +1,7 @@
 {
   "name": "cypress-interview",
   "version": "1.0.0",
-  "description": "cypress interview",
+  "description": "cypress interview Netherlands",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/sogol-nezami/Cypress-Interview.git"
   },
-  "author": "",
+  "author": "Sogol",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sogol-nezami/Cypress-Interview/issues"
